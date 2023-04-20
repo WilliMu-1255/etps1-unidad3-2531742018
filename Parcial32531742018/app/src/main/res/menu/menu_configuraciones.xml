@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/opcion1"
+     android:title="Buscar nombre"
+     app:showAsAction="never"
+     />
+
+ <item android:id="@+id/opcion2"
+     android:title="Buscar apellido"
+     app:showAsAction="never"
+     />
+    <item android:id="@+id/opcion3"
+        android:title="Buscar telefono"
+        app:showAsAction="never"
+        />
+    <item android:id="@+id/opcion4"
+        android:title="Buscar correo"
+        app:showAsAction="never"
+        />
+</menu>
